@@ -1,6 +1,3 @@
-# Rafael-
-Website toko roti
-
 <!DOCTYPE html>
 <html lang="id">
 <head>
@@ -135,7 +132,7 @@ Website toko roti
 </head>
 <body>
   <header>
-    <img src="Lionel Shop Logo.jpg" alt="Logo Lionel Bakery">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMiAw-bUDQgVxdHfGbTuVot2rrjKZzYKD6ZZFOwupdmw&s=10" alt="Logo Lionel Bakery">
     <h1>Lionel Bakery</h1>
     <div class="search-box">
       <input type="text" placeholder="Cari roti...">
@@ -145,8 +142,8 @@ Website toko roti
     <div class="label">Roti Baguette</div>
     <div class="discount">DISKON 50%</div>
   </div>  <section class="products">
-    <div class="product">
-      <img src="Roti Baguette.jpg" alt="Roti Baguette">
+  <div class="product">
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi5u7aYILHcl8u0wo55y8LpaaeivRKcVbAzqH2wFi3pg&s=10" alt="Roti Baguette">
       <h3>Roti Baguette</h3>
       <p style="color: white;">Roti dengan kualitas tinggi</p>
       <div class="price">Rp.20.000 (promo)</div>
@@ -154,8 +151,9 @@ Website toko roti
         <button class="buy">Beli Sekarang</button>
         <button class="cart">Tambah Keranjang</button>
       </div>
-    </div><div class="product">
-  <img src="Roti gembong gedhe.jpg" alt="Roti gembong gedhe">
+    </div>
+    <div class="product">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL322oBNXl3qrNRG96D4PgOqVacPz-YVKFQ_iZoO_DHA-Fg0f_f5QXON0U&s=10" alt="Roti gembong gedhe">
   <h3>Roti Gembong Gedhe</h3>
   <p style="color: white;">Roti dengan panggangan sempurna</p>
   <div class="price">Rp.18.000</div>
@@ -166,7 +164,7 @@ Website toko roti
 </div>
 
 <div class="product">
-  <img src="Roti bakar.jpg" alt="Roti Bakar">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGih1QjKpKThgup-yewKdsp5Z6iM9dhJVUpDwYS3n1xA&s=10" alt="Roti Bakar">
   <h3>Roti Bakar</h3>
   <p style="color: white;">Roti dengan susu manis</p>
   <div class="price">Rp.15.000</div>
@@ -177,7 +175,7 @@ Website toko roti
 </div>
 
 <div class="product">
-  <img src="Roti buaya.jpg" alt="Roti Buaya">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTffep066zn5r2WWBVd-iZJqdIgj8UkyLo6OvkDoOqSJA&s=10" alt="Roti Buaya">
   <h3>Roti Buaya</h3>
   <p style="color: white;">Roti dengan bentuk yang imut</p>
   <div class="price">Rp.55.000</div>
@@ -190,9 +188,9 @@ Website toko roti
 
   </section>  
   <footer>
-    <img src="Rumah.jpeg" alt="Home">
-    <img src="images.png" alt="Mail">
-    <img src="Stick man_1.png" alt="User">
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3zSssCnzP0yImrqhpfWhlns0h6TB_RgyjaK723P-Mag&s=10" alt="Home">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmMnOGPH9rcDgGqEQEsE9YjZE7h3XVA6g-c1EPS_f18w&s=10"alt="Mail">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV45acVH9GOWBKYz5jJ6XCfT3uYWd9_7T061YZTKfZPFupcCVnTD4ro7I1&s=10" alt="User">
   </footer>
 </body>
 </html>
