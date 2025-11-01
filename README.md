@@ -1,5 +1,4 @@
-Toko Roti 
-<!DOCTYPE html>
+Toko Roti<br/>
 <html lang="id">
 <head>
   <meta charset="UTF-8">
