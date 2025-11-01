@@ -164,7 +164,7 @@
 </div>
 
 <div class="product">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGih1QjKpKThgup-yewKdsp5Z6iM9dhJVUpDwYS3n1xA&s=10" alt="Roti Bakar">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGih1QjKpKThgup-yewKdsp5Z6iM9dhJVUpDwYS3n1xA&s=10"  alt="Roti Bakar">
   <h3>Roti Bakar</h3>
   <p style="color: white;">Roti dengan susu manis</p>
   <div class="price">Rp.15.000</div>
@@ -189,7 +189,7 @@
   </section>  
   <footer>
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3zSssCnzP0yImrqhpfWhlns0h6TB_RgyjaK723P-Mag&s=10" alt="Home">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmMnOGPH9rcDgGqEQEsE9YjZE7h3XVA6g-c1EPS_f18w&s=10"alt="Mail">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmMnOGPH9rcDgGqEQEsE9YjZE7h3XVA6g-c1EPS_f18w&s=10" alt="Mail">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV45acVH9GOWBKYz5jJ6XCfT3uYWd9_7T061YZTKfZPFupcCVnTD4ro7I1&s=10" alt="User">
   </footer>
 </body>
